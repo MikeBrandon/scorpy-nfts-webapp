@@ -44,7 +44,7 @@ import ScorpyNFT from "$lib/utils/scorpyNFT.json";
 	}
 
 	async function askContractToMintNft() {
-		const CONTRACT_ADDRESS = '0x5723C7696BD2611B993A4BcAA0Fab5D9e8F7FCB8';
+		const CONTRACT_ADDRESS = '0xf8eCe6Fb9C05dBB25D7174c6FCacAaE2a85C307d';
 
 		try {
 			const { ethereum } = window;
